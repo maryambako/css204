@@ -1,0 +1,71 @@
+.file{
+    color: black;
+    background-color: white;
+    padding: 10px;
+    margin: 12px;
+    display: flex;
+    justify-content: center;
+    width: 430px;
+    border-radius: 10px;
+    flex-direction: column;
+}
+.button{
+    background-color: blue;
+    color: white;
+    border-radius: 35px;
+    border: 0;
+    padding: 15px;
+    margin: 10px;
+    width: 90px;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: whitesmoke;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 50;
+    border-radius: 15px;
+}
+.head{
+    border-top: 1px solid #ddd;
+}
+header{
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    width: 420px;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+    
+}
+.button2{
+    background-color: blue;
+    color: white;
+    border-radius: 35px;
+    border: 0;
+    padding: 15px;
+    margin: 15px;
+  }
+
+  .box2{
+    
+  }
+
+  header2{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    width: 250px;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px; 
+    
+  }
+
+  .table{
+  }
+  
+  
